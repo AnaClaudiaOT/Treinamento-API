@@ -1,0 +1,6 @@
+
+usuarios:
+  login: "dadosdev"
+  full_name: "Dados Dev"
+  email: "dados.dev@gft.com"
+  age: "50"
